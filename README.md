@@ -29,14 +29,6 @@ Hệ thống được thiết kế theo kiến trúc nhiều lớp:
 
 Dự án bao gồm các tài liệu sau:
 
-1. **Topic.md** - Phân tích thực thể và mối quan hệ trong hệ thống
-2. **Diagrams.md** - Các sơ đồ UseCase, ERD và kiến trúc hệ thống
-3. **BuildingBlocks.md** - Lộ trình phát triển theo từng giai đoạn
-4. **ClassDG.md** - Chi tiết về các lớp nghiệp vụ và logic xử lý
-5. **APIDocumentation.md** - Tài liệu về các API endpoints
-6. **UIDesign.md** - Thiết kế giao diện người dùng và wireframes
-7. **TestingPlan.md** - Kế hoạch kiểm thử hệ thống
-
 ## CÔNG NGHỆ SỬ DỤNG
 
 - **Backend:** Java Spring Boot
